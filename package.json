@@ -49,12 +49,9 @@
     "url": "https://github.com/jclo/umdlib/issues"
   },
   "homepage": "https://github.com/jclo/umdlib",
-  "dependencies": {
+  "devDependencies": {
     "nopt": "4.0.1",
     "path": "0.12.7",
-    "vuepress": "0.14.10"
-  },
-  "devDependencies": {
     "chai": "4.2.0",
     "coveralls": "3.0.3",
     "cross-env": "5.2.0",
